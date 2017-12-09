@@ -1,0 +1,41 @@
+body {
+	background-color: #46662c;
+}
+
+
+
+
+
+div {
+	display: block;
+	width: 400px;
+	height: 300px;
+	border: 5px solid black;
+	margin: 200px auto;
+	overflow: hidden;
+	
+}
+
+img {
+	display: block;
+	width: 400px;
+	height: 300px;
+}
+
+li {
+
+	display: block;
+	width: 400px;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+	display: block;
+	width: 2000px;
+	height: 300px;
+	padding: 0;
+	margin: 0;
+}
