@@ -24,7 +24,7 @@ img {
 
 li {
 
-	display: block;
+	display: inline-block;
 	width: 400px;
 	height: 300px;
 	margin: 0;
